@@ -1,11 +1,14 @@
 <div align="center">
 
-# Hey there, I'm Nayan 👋
+# Nayan Paradkar
 
-**Python developer building CLIs, web apps, and tooling.**
+**Python Developer** · Building CLIs, REST APIs & web apps
+Learning **Java + Spring Boot**, **JavaScript** & **C**
+
+📍 Indore, India
 
 [![GitHub followers](https://img.shields.io/github/followers/nayanparadkar?style=for-the-badge&logo=github&color=0a0a0a)](https://github.com/nayanparadkar)
-[![Profile views](https://komarev.com/ghpvc/?username=nayanparadkar&style=for-the-badge)](https://github.com/nayanparadkar)
+[![Profile views](https://komarev.com/ghpvc/?username=nayanparadkar&style=for-the-badge&color=0e75b6)](https://github.com/nayanparadkar)
 
 </div>
 
@@ -48,12 +51,15 @@ A Twitter-style Django app — "Chai aur Tweet".
 
 **Languages**
 ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white)
 
 **Frameworks & Libraries**
 ![](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![](https://img.shields.io/badge/DRF-FF1709?style=flat-square)
+![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![](https://img.shields.io/badge/httpx-2EAD33?style=flat-square)
 
@@ -77,8 +83,10 @@ A Twitter-style Django app — "Chai aur Tweet".
 
 ## 🤝 Let's connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nayanparadkar)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nayanparadkar@users.noreply.github.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-paradkar-ab663a432)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/im.nayan_)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nayanparadkarofficial@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nayanparadkar)
 
 <div align="center">
 
